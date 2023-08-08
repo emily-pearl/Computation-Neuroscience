@@ -1,2 +1,10 @@
-# Computation-Neuroscience
+# Computational-Neuroscience
 Starting my pursuit to become a computational neuroscience (:
+
+Abstract
+
+  Imagery of motor movement and real motor movement go hand in hand when executing our daily motor practices. These two types of movements, imagined and real, are coordinated by the frontal and parietal lobe of our brains, nonetheless, it is unclear how the movement’s functional connectivity differs. Furthermore, the specific brain regions involved are inconsistent in studies, so it is unclear how exactly the movements are initiated versus imagined in the brain. Hence, during this project we studied which regions of the brain are involved in imagery and real movement in humans. Based on prior work, we expected functional connectivities in the brain to be unique for each movement, to analyze this we studied the dissimilarity between the two types of movements using a quantitative scale.
+
+  For the experiment we used the Miller ECoG data set of motor imagery, which contains complete information about six human subjects who were analyzed with an ECoG while imagining and/or executing hand and tongue gestures. Firstly, we calculated the functional connectivities between each electrode used by taking the correlations of each time series data belonging to these electrodes. Then, we created confusion matrices for both imagery experiment and real movement experiment using these correlation coefficients. In order to find the amount of change between the connectivity maps of real and imagery actions we calculated the dissimilarity between these two matrices. Furthermore, we tested the significance of this dissimilarity by using permutation testing (n = 1000). We found significant differences in all participants.
+
+  After quantitatively measuring brain connectivity, we conclude that there is a difference in terms of connectivity when performing imagery and motor tasks. Additionally, both imagery and real movements use similar brain regions such as the primary motor cortex and premotor cortex. More research about how different brain regions interact among each other is recommended to see why they have a similar effect on movement. 
