@@ -1,7 +1,6 @@
-# Computational-Neuroscience
-Starting my pursuit to become a computational neuroscience (:
+# Imaging movement and its brain connectivity
 
-Abstract
+## Abstract
 
   Imagery of motor movement and real motor movement go hand in hand when executing our daily motor practices. These two types of movements, imagined and real, are coordinated by the frontal and parietal lobe of our brains, nonetheless, it is unclear how the movement’s functional connectivity differs. Furthermore, the specific brain regions involved are inconsistent in studies, so it is unclear how exactly the movements are initiated versus imagined in the brain. Hence, during this project we studied which regions of the brain are involved in imagery and real movement in humans. Based on prior work, we expected functional connectivities in the brain to be unique for each movement, to analyze this we studied the dissimilarity between the two types of movements using a quantitative scale.
 
